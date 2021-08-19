@@ -1,0 +1,5 @@
+.markdown-body .disabled-skill {
+  /* 강조안하기 */
+  color: #aaa;
+  opacity: 0.8;
+}
